@@ -44,3 +44,8 @@ This project helps improve:
 
 ## Author
 Priti Londhe
+
+## Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
+
